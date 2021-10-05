@@ -79,7 +79,7 @@ main {
 	margin-right: 24px;
 }
 
-@media(min-width: 1000px) {
+@media(min-width: 1400px) {
   .max-width-wrapper {
     margin: 48px 300px;
     width: fit-content;
